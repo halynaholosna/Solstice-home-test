@@ -6,4 +6,4 @@ Feature: Test for Amazon Search functionality
     When Search for Alexa
     And Navigate to the second page
     And Click on the third item
-    Then Verify Add to card button is clickable
+    Then Verify Add to card button is present and clickable

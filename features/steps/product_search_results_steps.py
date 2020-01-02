@@ -1,6 +1,5 @@
 from behave import when
 from selenium.webdriver.common.by import By
-from time import sleep
 
 PRODUCT_RESULTS = (By.XPATH, "//span[@class = 'a-size-medium a-color-base a-text-normal']")
 
